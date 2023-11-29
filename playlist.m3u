@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,Truepremier1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,Truepremier2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,beinsports1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,beinsports2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,eleven1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,eleven2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,eleven3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,sportv1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,sportv2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,sportv3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="sports"
+,sportv4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
+
+
+
+
+
+
